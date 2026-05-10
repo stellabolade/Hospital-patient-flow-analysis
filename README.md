@@ -1,7 +1,11 @@
 # 🏥 Hospital Patient Flow — Operational Analysis
 
-**Team 3 | Dataverse Africa Internship | March 2026**
+**Stella Omobolade Obase** — Team Lead | Dataverse Africa Internship (Team 3)
 
+Responsible for coordinating team deliverables, directing the analytical approach, and presenting final outputs.
+
+ March 2026
+ 
 ---
 
 ## 📌 Project Overview
@@ -163,8 +167,8 @@ The cleaned query outputs were visualized in a **Power BI dashboard** (see `/das
 
 ## 👩‍💻 About
 
-**Stella Omobolade Obase**
-Data Analyst Intern — Dataverse Africa
-📅 April, 2026
+**Team 3 — Dataverse Africa Internship**
+Data Analyst Interns | March 2026
 
 *Project focus: Translating raw hospital records into operational insights using SQL and data visualization.*
+
